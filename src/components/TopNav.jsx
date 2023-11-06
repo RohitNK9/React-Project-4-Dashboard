@@ -21,8 +21,8 @@ const TopNav = ({ title, onOpen }) => {
                         <Icon as={FaUserTie} fontSize="24px" />
                     </MenuButton>
                     <MenuList>
-                        <MenuItem>Logout</MenuItem>
                         <MenuItem>Support</MenuItem>
+                        <MenuItem>Logout</MenuItem>
                     </MenuList>
                 </Menu>
             </HStack>
